@@ -1,0 +1,25 @@
+{
+  "name": "tutoringenv",
+  "version": "1.0.0",
+  "description": "Creating a tutoring environment for students online",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon webpage/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KnightOfHonour12/TutoringEnv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KnightOfHonour12/TutoringEnv/issues"
+  },
+  "homepage": "https://github.com/KnightOfHonour12/TutoringEnv#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
