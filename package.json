@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/KnightOfHonour12/TutoringEnv#readme",
   "dependencies": {
+    "@material-ui/core": "^4.8.3",
+    "express": "^4.17.1",
+    "material-ui": "^0.20.2",
     "socket.io": "^2.3.0"
   },
   "devDependencies": {
